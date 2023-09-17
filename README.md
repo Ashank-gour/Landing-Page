@@ -1,2 +1,2 @@
-# Landing-Page
-CodSoft web development Task
+# Codsoft web Development Task
+Landing page
