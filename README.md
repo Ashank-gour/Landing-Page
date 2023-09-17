@@ -1,4 +1,4 @@
 # Codsoft web Development Task
-Landing page
-Calculator 
+Landing page,
+Calculator,
 portfolio
